@@ -1,2 +1,2 @@
 # Relations
-A script that makes a table with data
+Shows the relations with terraria NPCs.
